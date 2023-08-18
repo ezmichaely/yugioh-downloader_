@@ -117,7 +117,7 @@ const start = async () => {
   for (let key = index; key < data.length; key++) {
     const card = data[key];
     Download(card);
-    await wait(300);
+    await wait(200);
 
     // index++;
     // if (index === 30) break;
