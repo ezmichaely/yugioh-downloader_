@@ -3,4 +3,4 @@
 </h1>
 
 
-RUN `npm install`
+run `npm install`
