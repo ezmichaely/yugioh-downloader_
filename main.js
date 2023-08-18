@@ -15,71 +15,74 @@ const Download = (card) => {
       if (card.type === 'Effect Monster') {
         folder = 'Cards/Monster/Effect_Monster'
       }
-      if (card.type === 'Normal Monster') {
-        folder = 'Cards/Monster/Normal_Monster'
-      }
       if (card.type === 'Flip Effect Monster') {
         folder = 'Cards/Monster/Flip_Effect_Monster'
-      }
-      if (card.type === 'Union Effect Monster') {
-        folder = 'Cards/Monster/Union_Effect_Monster'
       }
       if (card.type === 'Fusion Monster') {
         folder = 'Cards/Monster/Fusion_Monster'
       }
-      if (card.type === 'Pendulum Effect Monster') {
-        folder = 'Cards/Monster/Pendulum_Effect_Monster'
+      if (card.type === 'Gemini Monster') {
+        folder = 'Cards/Monster/Gemini_Monster'
       }
       if (card.type === 'Link Monster') {
         folder = 'Cards/Monster/Link_Monster'
-     }
-      if (card.type === 'Synchro Monster') {
-        folder = 'Cards/Monster/Synchro_Monster'
       }
-      if (card.type === 'Synchro Tuner Monster') {
-        folder = 'Cards/Monster/Synchro_Tuner_Monster'
-      }
-      if (card.type === 'Tuner Monster') {
-        folder = 'Cards/Monster/Tuner_Monster'
-      }
-      if (card.type === 'Gemini Monster') {
-        folder = 'Cards/Monster/Gemini_Monster'
+      if (card.type === 'Normal Monster') {
+        folder = 'Cards/Monster/Normal_Monster'
       }
       if (card.type === 'Normal Tuner Monster') {
         folder = 'Cards/Monster/Normal_Tuner_Monster'
       }
-      if (card.type === 'Spirit Monster') {
-        folder = 'Cards/Monster/Spirit_Monster'
-      }
-      if (card.type === 'Ritual Effect Monster') {
-        folder = 'Cards/Monster/Ritual_Effect_Monster'
-      }
       if (card.type === 'Pendulum Effect Fusion Monster') {
         folder = 'Cards/Monster/Pendulum_Effect_Fusion_Monster'
-      }
-      if (card.type === 'Ritual Monster') {
-        folder = 'Cards/Monster/Ritual_Monster'
-      }
-      if (card.type === 'Toon Monster') {
-        folder = 'Cards/Monster/Toon_Monster'
-      }
-      if (card.type === 'Pendulum Normal Monster') {
-        folder = 'Cards/Monster/Pendulum_Normal_Monster'
-      }
-      if (card.type === 'Synchro Pendulum Effect Monster') {
-        folder = 'Cards/Monster/Synchro_Pendulum_Effect_Monster'
-      }
-      if (card.type === 'Pendulum Tuner Effect Monster') {
-        folder = 'Cards/Monster/Pendulum_Tuner_Effect_Monster'
-      }
-      if (card.type === 'XYZ Pendulum Effect Monster') {
-        folder = 'Cards/Monster/XYZ_Pendulum_Effect_Monster'
       }
       if (card.type === 'Pendulum Effect Ritual Monster') {
         folder = 'Cards/Monster/Pendulum_Effect_Ritual_Monster'
       }
+      if (card.type === 'Pendulum Effect Monster') {
+        folder = 'Cards/Monster/Pendulum_Effect_Monster'
+      }
       if (card.type === 'Pendulum Flip Effect Monster') {
         folder = 'Cards/Monster/Pendulum_Flip_Effect_Monster'
+      }
+      if (card.type === 'Pendulum Normal Monster') {
+        folder = 'Cards/Monster/Pendulum_Normal_Monster'
+      }
+      if (card.type === 'Pendulum Tuner Effect Monster') {
+        folder = 'Cards/Monster/Pendulum_Tuner_Effect_Monster'
+      }
+      if (card.type === 'Ritual Effect Monster') {
+        folder = 'Cards/Monster/Ritual_Effect_Monster'
+      }
+      if (card.type === 'Ritual Monster') {
+        folder = 'Cards/Monster/Ritual_Monster'
+      }
+      if (card.type === 'Spirit Monster') {
+        folder = 'Cards/Monster/Spirit_Monster'
+      }
+      if (card.type === 'Synchro Monster') {
+        folder = 'Cards/Monster/Synchro_Monster'
+      }
+      if (card.type === 'Synchro Pendulum Effect Monster') {
+        folder = 'Cards/Monster/Synchro_Pendulum_Effect_Monster'
+      }
+      if (card.type === 'Synchro Tuner Monster') {
+        folder = 'Cards/Monster/Synchro_Tuner_Monster'
+      }
+      if (card.type === 'Toon Monster') {
+        folder = 'Cards/Monster/Toon_Monster'
+      }
+      if (card.type === 'Tuner Monster') {
+        folder = 'Cards/Monster/Tuner_Monster'
+      }
+      if (card.type === 'Union Effect Monster') {
+        folder = 'Cards/Monster/Union_Effect_Monster'
+      }
+      if (card.type === 'XYZ Monster') {
+        folder = 'Cards/Monster/XYZ_Monster'
+      }
+      if (card.type === 'XYZ Pendulum Effect Monster') {
+        folder = 'Cards/Monster/XYZ_Pendulum_Effect_Monster'
       }
     }
     else if (card.type.includes('Spell')) {
