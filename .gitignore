@@ -1,4 +1,5 @@
 /node_modules
+
 /Cards/Monster/Effect_Monster/*
 /Cards/Monster/Flip_Effect_Monster/*
 /Cards/Monster/Fusion_Monster/*
@@ -28,3 +29,35 @@
 /Cards/Spell_Card/*
 /Cards/Token/*
 /Cards/Trap_Card/*
+
+
+
+!/Cards/Monster/Effect_Monster/.gitkeep
+!/Cards/Monster/Flip_Effect_Monster/.gitkeep
+!/Cards/Monster/Fusion_Monster/.gitkeep
+!/Cards/Monster/Gemini_Monster/.gitkeep
+!/Cards/Monster/Link_Monster/.gitkeep
+!/Cards/Monster/Normal_Monster/.gitkeep
+!/Cards/Monster/Normal_Tuner_Monster/.gitkeep
+!/Cards/Monster/Pendulum_Effect Fusion_Monster/.gitkeep
+!/Cards/Monster/Pendulum_Effect Ritual_Monster/.gitkeep
+!/Cards/Monster/Pendulum_Effect_Monster/.gitkeep
+!/Cards/Monster/Pendulum_Flip_Effect_Monster/.gitkeep
+!/Cards/Monster/Pendulum_Normal_Monster/.gitkeep
+!/Cards/Monster/Pendulum_Tuner_Effect_Monster/.gitkeep
+!/Cards/Monster/Ritual_Effect_Monster/.gitkeep
+!/Cards/Monster/Ritual_Monster/.gitkeep
+!/Cards/Monster/Spirit_Monster/.gitkeep
+!/Cards/Monster/Synchro_Monster/.gitkeep
+!/Cards/Monster/Synchro_Pendulum_Effect_Monster/.gitkeep
+!/Cards/Monster/Synchro_Tuner_Monster/.gitkeep
+!/Cards/Monster/Toon_Monster/.gitkeep
+!/Cards/Monster/Tuner_Monster/.gitkeep
+!/Cards/Monster/Union_Effect_Monster/.gitkeep
+!/Cards/Monster/XYZ_Monster/.gitkeep
+!/Cards/Monster/XYZ_Pendulum_Effect_Monster/.gitkeep
+
+!/Cards/Skill_Card/.gitkeep
+!/Cards/Spell_Card/.gitkeep
+!/Cards/Token/.gitkeep
+!/Cards/Trap_Card/.gitkeep
