@@ -116,8 +116,8 @@ const start = async () => {
     Download(card);
     await wait(300);
 
-    index++;
-    if (index === 30) break;
+    // index++;
+    // if (index === 30) break;
   }
 }
 
