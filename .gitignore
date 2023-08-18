@@ -1,2 +1,30 @@
 /node_modules
-/Cards/*
+/Cards/Monster/Effect_Monster/*
+/Cards/Monster/Flip_Effect_Monster/*
+/Cards/Monster/Fusion_Monster/*
+/Cards/Monster/Gemini_Monster/*
+/Cards/Monster/Link_Monster/*
+/Cards/Monster/Normal_Monster/*
+/Cards/Monster/Normal_Tuner_Monster/*
+/Cards/Monster/Pendulum_Effect Fusion_Monster/*
+/Cards/Monster/Pendulum_Effect Ritual_Monster/*
+/Cards/Monster/Pendulum_Effect_Monster/*
+/Cards/Monster/Pendulum_Flip_Effect_Monster/*
+/Cards/Monster/Pendulum_Normal_Monster/*
+/Cards/Monster/Pendulum_Tuner_Effect_Monster/*
+/Cards/Monster/Ritual_Effect_Monster/*
+/Cards/Monster/Ritual_Monster/*
+/Cards/Monster/Spirit_Monster/*
+/Cards/Monster/Synchro_Monster/*
+/Cards/Monster/Synchro_Pendulum_Effect_Monster/*
+/Cards/Monster/Synchro_Tuner_Monster/*
+/Cards/Monster/Toon_Monster/*
+/Cards/Monster/Tuner_Monster/*
+/Cards/Monster/Union_Effect_Monster/*
+/Cards/Monster/XYZ_Monster/*
+/Cards/Monster/XYZ_Pendulum_Effect_Monster/*
+
+/Cards/Skill_Card/*
+/Cards/Spell_Card/*
+/Cards/Token/*
+/Cards/Trap_Card/*
