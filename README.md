@@ -6,3 +6,5 @@
 </p>
 
 run `npm install`
+
+once done, run `npm main.js`
