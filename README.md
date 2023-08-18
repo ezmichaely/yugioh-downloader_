@@ -8,4 +8,4 @@
 run `npm install`
 
 once done:
-run `npm main.js`
+run `node main.js`
