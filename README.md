@@ -5,7 +5,12 @@
   A simple app that lets you download all of the yugioh cards.
 </p>
 
-run `npm install`
+#get and install node from this link.
+<a href="https://nodejs.org/dist/v18.17.1/node-v18.17.1-x64.msi"> NODE JS </a>
 
-once done:
+#open the downloaded and extracted folder in the cmd.
+
+#run `npm install`
+
+#once done:
 run `node main.js`
