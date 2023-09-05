@@ -9,3 +9,4 @@
 ## 2. Install <a href="https://nodejs.org/dist/v18.17.1/node-v18.17.1-x64.msi"> NODE JS </a>.
 ## 3. Type this in the cmd `npm install`
 ## 4. Once done run / type `node main.js`
+## 5. Waiting time. All of the Yugioh Cards will be downloaded in each seperate type of Cards.
